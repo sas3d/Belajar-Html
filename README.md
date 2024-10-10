@@ -1,2 +1,2 @@
 # Belajar-Html
-Repo untuk belajar html dasar
+Repo ini digunakan untuk menyimpan kode belajar HTML dasar
